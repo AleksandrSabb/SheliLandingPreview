@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sheli.app" resolutions="1x" timestamp="1727909713322">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sheli.app" resolutions="1x" timestamp="1727909999560">
   <folder name="css">
     <file name="site_global.css" crc="4017394297"/>
     <file name="index.css" crc="256973585" ref="index"/>
@@ -270,9 +270,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="178984380" ref="phone>index"/>
+      <file name="index.css" crc="128822448" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="275691394" seo="true" mt="1727909691217" redirect="true"/>
+    <file name="index.html" crc="247636726" seo="true" mt="1727909959043" redirect="true"/>
   </folder>
   <file name="index.html" crc="3840025131" seo="true" mt="1727902641598" redirect="true"/>
 </manifest>
