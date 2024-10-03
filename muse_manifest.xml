@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sheli.app" resolutions="1x" timestamp="1727934793889">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sheli.app" resolutions="1x" timestamp="1727935153469">
   <folder name="css">
     <file name="site_global.css" crc="4017394297"/>
-    <file name="index.css" crc="327517745" ref="index"/>
+    <file name="index.css" crc="4260114888" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="noto-sans-regular.woff" crc="186988241"/>
@@ -274,5 +274,5 @@
     </folder>
     <file name="index.html" crc="4009122490" seo="true" mt="1727909959043" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3784710171" seo="true" mt="1727934687703" redirect="true"/>
+  <file name="index.html" crc="304179416" seo="true" mt="1727935113817" redirect="true"/>
 </manifest>
