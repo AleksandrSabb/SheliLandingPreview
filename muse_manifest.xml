@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sheli.app" resolutions="1x" timestamp="1727909999560">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sheli.app" resolutions="1x" timestamp="1727934793889">
   <folder name="css">
     <file name="site_global.css" crc="4017394297"/>
-    <file name="index.css" crc="256973585" ref="index"/>
+    <file name="index.css" crc="327517745" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="inconsolata.woff" crc="4172388356"/>
-    <file name="inconsolata.eot" crc="3827858260"/>
-    <file name="inconsolata.svg" crc="414162296"/>
     <file name="noto-sans-regular.woff" crc="186988241"/>
     <file name="noto-sans-regular.eot" crc="15825746"/>
     <file name="noto-sans-regular.svg" crc="357805145"/>
+    <file name="inconsolata.woff" crc="4172388356"/>
+    <file name="inconsolata.eot" crc="3827858260"/>
+    <file name="inconsolata.svg" crc="414162296"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -172,46 +172,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="x (twitter) (1)_poster_.png" crc="48771304" ref="phone>index"/>
-    <file name="logo-txt2.svg" crc="4270491946" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo txt_poster_2.png" crc="414182512" ref="index"/>
-    <file name="facebook (1).svg" crc="3762936275" ref="index"/>
-    <file name="facebook (1)_poster_u4651.png" crc="4169263583" ref="index"/>
-    <file name="facebook (2).svg" crc="174823740" ref="index"/>
-    <file name="facebook (2)_poster_u4699.png" crc="329380924" ref="index"/>
-    <file name="telegram (1).svg" crc="4153817567" ref="index"/>
-    <file name="telegram (1)_poster_u4659.png" crc="128715636" ref="index"/>
-    <file name="telegram (2).svg" crc="4122641199" ref="index"/>
-    <file name="telegram (2)_poster_u4707.png" crc="256184239" ref="index"/>
-    <file name="youtube (1).svg" crc="26821866" ref="index"/>
-    <file name="youtube (1)_poster_u4667.png" crc="3765754169" ref="index"/>
-    <file name="youtube (2).svg" crc="4189135822" ref="index"/>
-    <file name="youtube (2)_poster_u4715.png" crc="3945006916" ref="index"/>
-    <file name="linkedin (2).svg" crc="4280975887" ref="index"/>
-    <file name="linkedin (2)_poster_u4675.png" crc="4283067837" ref="index"/>
-    <file name="linkedin (3).svg" crc="364910820" ref="index"/>
-    <file name="linkedin (3)_poster_u4723.png" crc="478647445" ref="index"/>
-    <file name="instagram (1).svg" crc="11634327" ref="index"/>
-    <file name="instagram (1)_poster_u4683.png" crc="143040155" ref="index"/>
-    <file name="instagram (2).svg" crc="199766090" ref="index"/>
-    <file name="instagram (2)_poster_u4731.png" crc="4009594719" ref="index"/>
-    <file name="x (twitter) (1).svg" crc="175308245" ref="index"/>
-    <file name="x (twitter) (1)_poster_u4691.png" crc="182279988" ref="index"/>
-    <file name="x (twitter) (2).svg" crc="332305872" ref="index"/>
-    <file name="x (twitter) (2)_poster_u4739.png" crc="4256760046" ref="index"/>
-    <file name="2e8f4f4bddb088351fef851238d343af.png" crc="4090789166" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vector 58.png" crc="3783104506" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vector 57.png" crc="326969981" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vector 56.png" crc="168728573" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2151420245 2.jpg" crc="4134456425" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -267,12 +227,52 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="zondicons_arrow-up_poster_.png" crc="376891934" ref="index"/>
+    <file name="logo-txt2.svg" crc="4270491946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo txt_poster_2.png" crc="414182512" ref="index"/>
+    <file name="facebook (1).svg" crc="3762936275" ref="index"/>
+    <file name="facebook (1)_poster_u4651.png" crc="4169263583" ref="index"/>
+    <file name="facebook (2).svg" crc="174823740" ref="index"/>
+    <file name="facebook (2)_poster_u4699.png" crc="329380924" ref="index"/>
+    <file name="youtube (1).svg" crc="26821866" ref="index"/>
+    <file name="youtube (1)_poster_u4667.png" crc="3765754169" ref="index"/>
+    <file name="youtube (2).svg" crc="4189135822" ref="index"/>
+    <file name="youtube (2)_poster_u4715.png" crc="3945006916" ref="index"/>
+    <file name="instagram (1).svg" crc="11634327" ref="index"/>
+    <file name="instagram (1)_poster_u4683.png" crc="143040155" ref="index"/>
+    <file name="instagram (2).svg" crc="199766090" ref="index"/>
+    <file name="instagram (2)_poster_u4731.png" crc="4009594719" ref="index"/>
+    <file name="telegram (1).svg" crc="4153817567" ref="index"/>
+    <file name="telegram (1)_poster_u4659.png" crc="128715636" ref="index"/>
+    <file name="telegram (2).svg" crc="4122641199" ref="index"/>
+    <file name="telegram (2)_poster_u4707.png" crc="256184239" ref="index"/>
+    <file name="linkedin (2).svg" crc="4280975887" ref="index"/>
+    <file name="linkedin (2)_poster_u4675.png" crc="4283067837" ref="index"/>
+    <file name="linkedin (3).svg" crc="364910820" ref="index"/>
+    <file name="linkedin (3)_poster_u4723.png" crc="478647445" ref="index"/>
+    <file name="x (twitter) (1).svg" crc="175308245" ref="index"/>
+    <file name="x (twitter) (1)_poster_u4691.png" crc="182279988" ref="index"/>
+    <file name="x (twitter) (2).svg" crc="332305872" ref="index"/>
+    <file name="x (twitter) (2)_poster_u4739.png" crc="4256760046" ref="index"/>
+    <file name="2e8f4f4bddb088351fef851238d343af.png" crc="4090789166" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vector 58.png" crc="3783104506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vector 57.png" crc="326969981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vector 56.png" crc="168728573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="128822448" ref="phone>index"/>
+      <file name="index.css" crc="4192973500" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="247636726" seo="true" mt="1727909959043" redirect="true"/>
+    <file name="index.html" crc="4009122490" seo="true" mt="1727909959043" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3840025131" seo="true" mt="1727902641598" redirect="true"/>
+  <file name="index.html" crc="3784710171" seo="true" mt="1727934687703" redirect="true"/>
 </manifest>

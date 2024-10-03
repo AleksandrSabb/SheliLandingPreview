@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://sheli.app/index.html</loc>
-    <lastmod>2024-10-02</lastmod>
+    <lastmod>2024-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sheli.app/phone/index.html"/>
@@ -64,18 +64,6 @@
       <image:loc>http://sheli.app/images/x-(twitter)-(1).svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sheli.app/images/logo-txt2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sheli.app/images/vector%2058.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sheli.app/images/vector%2057.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sheli.app/images/vector%2056.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://sheli.app/images/point%20section.png</image:loc>
     </image:image>
     <image:image>
@@ -86,6 +74,18 @@
     </image:image>
     <image:image>
       <image:loc>http://sheli.app/images/zondicons_arrow-up.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sheli.app/images/logo-txt2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sheli.app/images/vector%2058.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sheli.app/images/vector%2057.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sheli.app/images/vector%2056.png</image:loc>
     </image:image>
   </url>
 </urlset>
